@@ -1,0 +1,14 @@
+.user-component {
+  width: 90%;
+  height: 40px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  border-radius: 4px;
+  cursor: pointer;;
+  margin: 10px 0;
+  font-family: 'Courier New', Courier, monospace;
+}
